@@ -9,6 +9,8 @@ drawing so I think it would be a better transition. But mainly I want to experim
 - I also want to see if I could make it so that the I don't give any information away that I really  don't want t give. Making it a mixture of 
 private and public. Also I want to see if I can online and offline things. 
 
+<br>
+
 ## Haha. I was expecting that. I counter with..
 
 I will switch reposoteries if I make an app, or switch to using other platforms, services or languages. For my first one I am just using HTML, CSS,
@@ -24,6 +26,8 @@ that will go to another one like all firebase things. Maybe I'll just do
 I don't know how they work so it will change but the first, second, and last are for sure. Cause otherwise it will just blow my mind with the files
 in one folder. 
 
+<br>
+
 ## Lord OverArch the First
 
 Why public? I hope some unlucky soul lands here. So I can just tell him someone somewhere is working why he isn't. (Yeah) But also beacuse it's hard
@@ -35,6 +39,8 @@ to find these kinds of things for people with no experience. I think
 
 So, I will try to do it that way. 
 
+<br>
+
 ## What are you going to do now, Soham. HMMM
 
 January 2023: Start my Full stack journey. 
@@ -42,8 +48,11 @@ Febuary 2023: Um.
 March 2023: 1st commit (App DBI in progress)
 Future - April 2023: Get homescreen and basic movement and program set up and publish it! Yay. While doing school, ecs, learning, gym, and hawaii.
 
+<br>
+<br>
+<br>
 
-# Sorry
+### Sorry
 
 TLDR;
 I am going to do things and help you do them. I hope. 
