@@ -46,7 +46,11 @@ So, I will try to do it that way.
 + January 2023: Start my Full stack journey. 
 + Febuary 2023: Um. 
 + March 2023: 1st commit (App DBI in progress)
-+ Future - April 2023: Get homescreen and basic movement and program set up and publish it! Yay. While doing school, ecs, learning, gym, and hawaii.
++ April 2023: Didn't get to homescreen and basic movement and program set up and publish it! Yay. While doing school, ecs, learning, gym, and hawaii.
++ May: 
++ June: 
++ July:
++ Future - August: Complete the game. 
 
 <br>
 <br>
